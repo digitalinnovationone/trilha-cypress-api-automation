@@ -1,0 +1,16 @@
+{
+  "name": "trilha-cypress-api-automation",
+  "version": "1.0.0",
+  "description": "Esse repositório engloba o código criado para o curso de automação web api da trilha de Cypress da DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "cypress-plugin-api": "^2.11.1",
+    "eslint-plugin-cypress": "^2.13.3"
+  }
+}
